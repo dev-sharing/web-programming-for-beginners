@@ -1,7 +1,7 @@
 # web-programming-for-beginners
 Web programming for beginners
 
-This content is from (Youtube playlist: Web programming for beginners)[https://www.youtube.com/playlist?list=PLhcUtm28eAdWbbwB-r5v1Wl0kiTaSXVUr]
+This content is from [Youtube playlist: Web programming for beginners](https://www.youtube.com/playlist?list=PLhcUtm28eAdWbbwB-r5v1Wl0kiTaSXVUr)
 
 ## 0001 Why I am starting this channel?
 
