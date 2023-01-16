@@ -27,3 +27,26 @@ All this new words will be learn and easily remembered after more practice.
 - Give yourself time for relax. This will increase you memorization effect!
 - Skipping relax will bring you to: 
 -- Burnouts and mental health problems and lack of motivations.
+
+## 0003 What web developer roadmap to choose ?
+HTML, CSS and JavaScript. - Browser 
+Python (not recommended)
+
+Dev ENV:
+Win. 7/10/11
+Virtual Box(optional) + Linux Mint OS
+
+Ubuntu or Debian servers
+
+## 0004 Learning curve diagram
+
+The [Dunning–Kruger effect](https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect) is a cognitive [bias](https://en.wikipedia.org/wiki/Cognitive_bias) whereby people with low ability, expertise, or experience regarding a certain type of task or area of knowledge tend to overestimate their ability or knowledge.
+
+![Dunning–Kruger effect diagram](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dunning%E2%80%93Kruger_Effect_01.svg/720px-Dunning%E2%80%93Kruger_Effect_01.svg.png?20201030004645)
+
+Source: [Diagram image from wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Dunning%E2%80%93Kruger_Effect_01.svg/1024px-Dunning%E2%80%93Kruger_Effect_01.svg.png?20201030004645)
+
+Ask yourself:
+- Are you humble?
+- Are you a good listener?
+- Are you able to take criticism and objectively evaluate feedback?
